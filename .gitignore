@@ -7,3 +7,4 @@ main2/src/__pycache__/agent.cpython-312.pyc
 main2/src/__pycache__/environment.cpython-312.pyc
 main2/src/__pycache__/male_cns_loader.cpython-312.pyc
 main2/src/__pycache__/network.cpython-312.pyc
+utils/neupy.py
